@@ -1,0 +1,21 @@
+{
+    "name": "solana-monitor-new-tokens",
+    "version": "1.0.0",
+    "description": "monitor new solana tokens",
+    "scripts": {
+        "sniper": "npx tsx monitorNewTokens.ts"
+    },
+    "author": "https://github.com/archiesnipes",
+    "dependencies": {
+        "@raydium-io/raydium-sdk": "^1.3.1-beta.46",
+        "@solana-developers/node-helpers": "^1.2.2",
+        "@solana/buffer-layout": "^4.0.1",
+        "@solana/spl-token": "^0.3.10",
+        "@solana/web3.js": "^1.89.1",
+        "@types/node": "^20.11.30",
+        "chalk": "^5.3.0",
+        "dotenv": "^16.3.1",
+        "tsx": "^4.7.0",
+        "typescript": "^5.3.3"
+    }
+}

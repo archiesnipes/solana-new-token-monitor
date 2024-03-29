@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "module": "CommonJS",
+        "target": "es6",
+        "strictNullChecks": false,
+        "strictFunctionTypes": false,
+        "esModuleInterop": true,
+        "forceConsistentCasingInFileNames": true,
+        "resolveJsonModule": true,                           /* Enable importing .json files. */
+    },
+    "exclude": [
+        "node_modules",
+        "**/node_modules/*"
+    ]
+}
