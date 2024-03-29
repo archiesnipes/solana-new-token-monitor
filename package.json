@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "monitor new solana tokens",
     "scripts": {
-        "sniper": "npx tsx monitorNewTokens.ts"
+        "monitor": "npx tsx monitorNewTokens.ts"
     },
     "author": "https://github.com/archiesnipes",
     "dependencies": {
