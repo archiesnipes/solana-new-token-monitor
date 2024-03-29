@@ -18,7 +18,7 @@ async function monitorNewTokens(connection: Connection) {
 
         console.log(chalk.bgGreen(`found new token signature: ${signature}`));
 
-        console.log(chalk.underline(`new token logs: ${logs}`));
+        console.log(`new token logs: ${logs}`);
 
         const newTokenData = {
           lpSignature: signature,
