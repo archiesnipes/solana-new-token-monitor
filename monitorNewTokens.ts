@@ -18,6 +18,7 @@ async function monitorNewTokens(connection: Connection) {
         try {
           if (err) {
             console.error(`connection contains error, ${err}`);
+            return;
           }
 
           console.log(chalk.bgGreen(`found new token signature: ${signature}`));
