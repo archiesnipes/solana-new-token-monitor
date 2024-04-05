@@ -22,6 +22,6 @@ Your terminal should show `monitoring new token launches..`
 ## Contact
 
 For community discussions on sniper bots:
-[![](https://img.shields.io/discord/1201826085655023616?color=5865F2&logo=Discord&style=flat-square)](https://discord.gg/yNS6JpTv)
+[![](https://img.shields.io/discord/1201826085655023616?color=5865F2&logo=Discord&style=flat-square)](https://discord.gg/47ddgNwa3b)
 
 For any business inquiries, reach out at discord: `archiesnipes`
